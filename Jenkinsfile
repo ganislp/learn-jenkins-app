@@ -29,7 +29,7 @@ pipeline {
             }  
             steps{
                 sh '''
-                echo "test started 123"
+                echo "test started 123444"
                 npm test 
                 '''
             }
